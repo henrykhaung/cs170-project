@@ -4,6 +4,7 @@ This repository contains utility functions which might be helpful for solving th
 ## Requirements
 `python >= 3.6` is needed for `starter.py`, which contains a handful of utility functions, to run properly; it was, nevertheless, developed in python 3.9.  
 Jupyter Notebook is required should you prefer using `main.ipynb`.
+You may need to install some python libraries. All you have to do is run the first cell block of `main.ipynb`.
 
 ## Licence
 Copyright 2022, The Regents of the University of California and UC Berkeley CS170 Staff  
