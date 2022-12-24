@@ -23,5 +23,5 @@ The only computational resources that we used were the hive machines.
 In 'all_solvers.ipynb' jupyter notebook, there are 12 functions, each named solve(), listed under the headings "Solution #1-6" and "Other". To run our algorithm, simply define each solve() function one at a time, and then execute run_all() on the test set using the currently defined solve() function. It is important to note that most of the solve() functions are very similar (naturally, because they are progressions of one another), but all of them have been preserved for the purpose of recreating results, so it is necessary to run them all. It should also be noted that there is a dynamic programming algorithm called solve_DP(), but it does not work, so you should not try to use it.
 
 ## Results
-Our team ended up getting 25th place out of 242 teams. Click on [this](CS_170_Leaderboard.html) to see full leaderboard.
+Our team ended up getting 25th place out of 242 teams. Click on [this](CS_170_Leaderboard.pdf) to see full leaderboard.
 ![leaderboard](leaderboard.png)
