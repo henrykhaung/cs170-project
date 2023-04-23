@@ -1,5 +1,8 @@
-# Fall 2022 CS170 Project Skeleton
-This repository contains utility functions which might be helpful for solving the project.
+# Fall 2022 CS170 Project
+
+## Problem Statement
+The problem is a graph problem where we must find the optimal way to partition the penguins into teams such that those placed in teams no longer have  disputes with each other while minimizing the number of teams and having the same team size across all teams. The partion is given a cost based off of these three conditions (no disputes, small number of teams, rougly equal team sizes) and the goal is to get a partition with the minimal cost.
+Read the full project spec [here](CS170_ProjectSpec.pdf).
 
 ## Requirements
 `python >= 3.6` is needed for `starter.py`, which contains a handful of utility functions, to run properly; it was, nevertheless, developed in python 3.9.  
